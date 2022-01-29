@@ -1,0 +1,5 @@
+Esta licencia determinada porr Copyright declara que el codigo y esta web no puede ser utilizada para uso comercial, no se podra subir una modificacion de este codigo, ninguna persona puede reclamar este codigo sin el documento en formato de imagen que diga lo contrario, este mismo se puede identificar de la siguiente manera:
+1.- Contiene una imagen que demuestra ser el autor de Miss Fondos (pagina de facebook).
+2.- Tiene una marca que identifica tanto la pagina de facebook como esta web, el cual es una imagen diminuta en la parte inferior derecha.
+3.- Tiene las especificaciones del dispositivo en el cual se hizo la web y el mismo documento (tambien contiene la fecha y hora en la cual se creo el documento la cual es la misma fecha en la que se creo la web).
+Para finalizar, este documento debe traer por defecto la fecha en la cual fue creado este documento y la web.
