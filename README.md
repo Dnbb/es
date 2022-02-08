@@ -2,7 +2,7 @@ Hola, soy el programador previamente contratado por **<a href="https://www.insta
 
 <li>Dnbb: <a href="https://www.instagram.com/_dnbb_/"><b>Instagram </b></a></li>
 <li>Liliana: <a href="https://www.instagram.com/miss1_lilianita"><b>Instagram ◄ ↯ ►</b></a></li>
-<li>Miss Fondos: <a href="https://www.facebook.com/MissFondosForever"><b>Pagina De Facebook ◄ ↯ ►</b></a></li>
+<li>Miss Fondos: <a href="https://www.facebook.com/MissFondosForever"><b>Pagina De Facebook ◄ ↯ ►</b></a></li><br>
 
 Navegadores utilizados para crear esta web:
 
