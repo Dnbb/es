@@ -8,19 +8,13 @@ Miss Fondos: ***<a href="https://www.facebook.com/MissFondosForever">Pagina De F
 
 Navegadores donde se uso la web para su creacion:
 
-**<li>1.Chrome</li>**
-
-**2.Safari**
-
-**3.Firefox**
-
-**4.Microsoft Edge**
-
-**5.Opera GX**
-
-**6.Brave**
-
-**7.Internet Explorer**
+**<li>Chrome</li>**
+**<li>Safari</li>**
+**<li>Firefox</li>**
+**<li>Microsoft Edge</li>**
+**<li>Opera GX</li>**
+**<li>Brave</li>**
+**<li>Internet Explorer</li>**
 
 Sistemas utilizados para crear esta web:
 
