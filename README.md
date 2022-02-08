@@ -2,9 +2,9 @@ Hola, soy el programador previamente contratado por **<a href="https://www.insta
 
 Dnbb: ***<a href="https://www.instagram.com/_dnbb_/">Instagram</a>***
 
-Liliana: *https://www.instagram.com/miss1_lilianita*
+Liliana: ***<a href="https://www.instagram.com/miss1_lilianita">Instagram</a>***
 
-Miss Fondos: *https://www.facebook.com/MissFondosForever*
+Miss Fondos: ***<a href="https://www.facebook.com/MissFondosForever">Pagina De Facebook</a>***
 
 Navegadores donde se uso la web para su creacion:
 
