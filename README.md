@@ -8,7 +8,7 @@ Miss Fondos: *https://www.facebook.com/MissFondosForever*
 
 Navegadores donde se uso la web para su creacion:
 
-*1.Chrome
+*1.Chrome*
 
 *2.Safari
 
