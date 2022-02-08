@@ -32,4 +32,5 @@ Apps utilizadas para la programacion de esta web:
 **<li>Kodex (iPadOS, iOS)</li>**
 **<li>GitHub (Android, iPadOS, iOS, Windows, Ubuntu)</li>**
 
-Esta web se finalizo en <i>Visual Studio Code</i>
+Esta web se finalizo en <i>Visual Studio Code.</i>
+En iPadOS la web contiene unos pequeños errores que estoy corrigiendo.
