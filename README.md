@@ -18,7 +18,7 @@ Navegadores utilizados para crear esta web:
 
 Sistemas utilizados para crear esta web:
 
-**<li>Ubuntu 20.04 (Linux)</li>**
+**<li>Ubuntu 20.04 (GNU/Linux)</li>**
 **<li>Windows 10 21H2</li>**
 **<li>Windows 8.1 Pro</li>**
 **<li>iPadOS</li>**
