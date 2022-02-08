@@ -34,4 +34,4 @@ Apps utilizadas para la programacion de esta web:
 
 Esta web se finalizo en <i>Visual Studio Code.</i><br>
 En iPadOS la web contiene unos pequeños errores que estoy corrigiendo.<br>
-Si te encuentras con mas errores por favor hasmelo saber a mi <a href="mailto=dnbb_@outlook.com">correo electronico</a> <i>(de preferencia con una fotocaptura mostrando el bug)</i>
+Si te encuentras con mas errores por favor hasmelo saber a mi <a href="mailto:dnbb_@outlook.com">correo electronico</a> <i>(de preferencia con una fotocaptura mostrando el bug)</i>
