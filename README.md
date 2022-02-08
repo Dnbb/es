@@ -6,7 +6,7 @@ Liliana: ***<a href="https://www.instagram.com/miss1_lilianita">Instagram ◄ �
 
 Miss Fondos: ***<a href="https://www.facebook.com/MissFondosForever">Pagina De Facebook ◄ ↯ ►</a>***
 
-Navegadores donde se uso la web para su creacion:
+Navegadores utilizados para crear esta web:
 
 **<li>Chrome</li>**
 **<li>Safari</li>**
@@ -18,30 +18,20 @@ Navegadores donde se uso la web para su creacion:
 
 Sistemas utilizados para crear esta web:
 
-**1.Ubuntu 20.04 (Linux)**
-
-**2.Windows 10 21H2**
-
-**3.Windows 8.1 Pro**
-
-**4.iPad OS**
-
-**5.iOS**
-
-**6.Android 10**
-
-**7.Android 7.0**
+**<li>Ubuntu 20.04 (Linux)</li>**
+**<li>Windows 10 21H2</li>**
+**<li>Windows 8.1 Pro</li>**
+**<li>iPadOS</li>**
+**<li>iOS</li>**
+**<li>Android 10</li>**
+**<li>Android 7.0</li>**
 
 Apps utilizadas para la programacion de esta web:
 
-**1.CodeLite (Ubuntu)**
-
-**2.Visual Studio Code (Windows, Ubuntu)**
-
-**3.Koder (iPadOS, iOS)**
-
-**4.Kodex (iPadOS, iOS)**
-
-**5.GitHub (Android, iPadOS, iOS, Windows, Ubuntu)**
+**<li>CodeLite (Ubuntu)</li>**
+**<li>Visual Studio Code (Windows, Ubuntu)</li>**
+**<li>Koder (iPadOS, iOS)</li>**
+**<li>Kodex (iPadOS, iOS)</li>**
+**<li>GitHub (Android, iPadOS, iOS, Windows, Ubuntu)</li>**
 
 Esta web se finalizo en *Visual Studio Code*
