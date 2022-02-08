@@ -33,4 +33,5 @@ Apps utilizadas para la programacion de esta web:
 **<li>GitHub (Android, iPadOS, iOS, Windows, Ubuntu)</li>**
 
 Esta web se finalizo en <i>Visual Studio Code.</i><br>
-En iPadOS la web contiene unos pequeños errores que estoy corrigiendo.
+En iPadOS la web contiene unos pequeños errores que estoy corrigiendo.<br>
+Si te encuentras con mas errores por favor hasmelo saber a mi correo electronico <i>(de preferencia con una fotocaptura mostrando el bug)</i>
